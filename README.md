@@ -26,8 +26,6 @@ Developed with Python 3 with libraries of:
 ## 📁File Descriptions
   * Recommendations_with_IBM.ipynb: Jupyter notebook containing implementation and analysis developed in the following segments I) Exploratory Data Analysis, II) Rank Based Recommendations, III) User-User Based Collaborative Filtering, IV) Matrix Factorization
   * Recommendations_with_IBM.html: A copy of Recommendations_with_IBM.ipynb in html format.
-  * data/user-item-interactions.csv: Csv file with user-item interactions.
-  * data/articles_community.csv: Csv file with indexed items.
  
 ## 👐🏽Acknowledgement 
 This application was made as part of the [Udacity Data Scientist Nanodegree](https://learn.udacity.com/my-programs?tab=Currently%2520Learning) program 
